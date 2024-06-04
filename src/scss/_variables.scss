@@ -2,8 +2,16 @@
 // Variables
 // 
 
+// See https://getbootstrap.com/docs/5.0/customize/sass/#importing
+
 // Import Bootstrap variables for use within theme
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
 @import "bootstrap/scss/functions.scss";
+
+// 2. Include any default variable overrides here
+
+
+// 3. Include remainder of required Bootstrap stylesheets
 @import "bootstrap/scss/variables.scss";
 
 // Import spacing variables

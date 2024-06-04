@@ -27,6 +27,15 @@ $sidenav-light-link-active-color: $primary;
 $sidenav-light-icon-color: $gray-500;
 $sidenav-light-footer-bg: $gray-200;
 
+// -- Sidenav Dark
+$sidenav-primary-bg: $primary;
+$sidenav-primary-color: fade-out($white, 0.1);
+$sidenav-primary-heading-color: fade-out($white, 0.2);
+$sidenav-primary-link-color: fade-out($white, 0.1);
+$sidenav-primary-link-active-color: $white;
+$sidenav-primary-icon-color: fade-out($white, 0.2);
+$sidenav-primary-footer-bg: $blue-800;
+
 // Color variables for the topnav
 $topnav-dark-toggler-color: fade-out($white, 0.5);
 $topnav-light-toggler-color: $gray-900;
