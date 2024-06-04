@@ -1,3 +1,11 @@
+# Litcal Fork of [Start Bootstrap - SB Admin](https://github.com/StartBootstrap/startbootstrap-sb-admin)
+
+This fork allows us to publish a stylesheet at https://cdn.jsdelivr.net/gh/Liturgical-Calendar/startbootstrap-sb-admin/dist/css/styles.css (using a [jsdelivr GitHub CDN URL](https://github.com/jsdelivr/jsdelivr#github)).
+We use this stylesheet in [LiturgicalCalendarFrontend](https://github.com/Liturgical-Calendar/LiturgicalCalendarFrontend) and other projects.
+Because we own the fork, we can publish a stylesheet with custom themes, colors, etc., and can customize it over time as needed.
+
+_The original README is below:_
+
 # [Start Bootstrap - SB Admin](https://startbootstrap.com/template/sb-admin/)
 
 [SB Admin](https://startbootstrap.com/template/sb-admin/) is an open source, admin dashboard template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
